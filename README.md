@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Hello&section=header&textBg=false&fontAlign=80&animation=blink&desc=I`m%20Hyun%20Min&descAlign=83&rotate=20&fontAlignY=24&descAlignY=37&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&text=Hello&section=header&textBg=false&fontAlign=80&animation=blink&desc=I`m%20Hyun%20Min&descAlign=83&rotate=20&fontAlignY=24&descAlignY=37&reversal=false)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdvanc2d&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -26,7 +26,7 @@
 
 <a href="https://opgc.me/#/users/Advanc2d" target="_blank"><img src="https://api.opgc.me/githubs/users/Advanc2d/tag/?theme=basic" /></a>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&section=footer&textBg=false&fontAlign=80&animation=blink&descAlign=83&rotate=20&fontAlignY=24&descAlignY=37&reversal=false)
+![footer](https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&section=footer&textBg=false&fontAlign=80&animation=blink&descAlign=83&rotate=20&fontAlignY=24&descAlignY=37&reversal=false)
 <!--
 **Advanc2d/Advanc2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
