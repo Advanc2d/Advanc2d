@@ -70,13 +70,11 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-
 </p>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advanc2d&show_icons=true&locale=en&layout=compact" alt="advanc2d" /></p>
+-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advanc2d&show_icons=true&locale=en" alt="advanc2d" /></p>
 
