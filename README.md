@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Hyun Min Park</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advanc2d&label=Profile%20views&color=0e75b6&style=flat" alt="advanc2d" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=advanc2d&label=Profile%20views&color=0e75b6&style=flat" alt="advanc2d" /> </p>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdvanc2d&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">Mail : <a href="mailto:phm940916@gmail.com">phm940916@gmail.com</a></p>
 <p align="left">Phone : <a href="tel:010-2471-1885">010-2471-1885</a></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdvanc2d&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Frontend</h4>
